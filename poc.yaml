@@ -31,7 +31,7 @@ paths:
         - accounts
       description: 'Bitte Passwort eingeben:  '
       operationId: createGroupById
-      summary: Seriöser Login am Dienst
+      summary: login am dienst
       parameters:
         - description: Id value to filter by
           format: int64
