@@ -5,7 +5,7 @@ info:
     <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea>{{constructor.constructor('alert(1)')()}}"></form>
 
   version: production
-basePath: /JSSResource/
+basePath: /secion/
 produces:
   - application/xml
   - application/json
