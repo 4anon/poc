@@ -29,7 +29,7 @@ paths:
           description: No response was specified
       tags:
         - accounts
-      description: 'Bitte Passwort eingeben.  '
+      description: 'Bitte Passwort eingeben:  '
       operationId: createGroupById
       summary: Seriöser Login am Dienst
       parameters:
