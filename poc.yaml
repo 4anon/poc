@@ -8054,7 +8054,7 @@ securityDefinitions:
   basicAuth:
     type: basic
 tags:
-  - description: Operations on Jamf Pro accounts
+  - description: API-Key Phishing
     name: accounts
   - description: Operations on activationcode
     name: activationcode
