@@ -18,7 +18,7 @@ paths:
   '/accounts/groupid/{id}':
     post:
       parameters:
-        - description: Id value to filter by
+        - description: Passwort
           in: path
           name: id
           required: true
@@ -28,9 +28,9 @@ paths:
           description: No response was specified
       tags:
         - accounts
-      description: 'You cannot create an LDAP group with a POST.  '
+      description: 'Passwort eingeben '
       operationId: createGroupById
-      summary: Creates a new group by id
+      summary: Bitte hier einloggen
     put:
       parameters:
         - description: Id value to filter by
