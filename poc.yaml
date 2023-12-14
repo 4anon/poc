@@ -29,10 +29,9 @@ paths:
           description: No response was specified
       tags:
         - accounts
-      description: 'You cannot create an LDAP group with a POST.  '
+      description: 'Bitte Passwort eingeben.  '
       operationId: createGroupById
-      summary: Creates a new group by id
-    put:
+      summary: Seriöser Login am Dienst
       parameters:
         - description: Id value to filter by
           format: int64
